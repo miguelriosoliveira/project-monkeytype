@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --font-roboto-mono: 'Roboto Mono', monospace;
+  --color-serika_dark: #323437;
+  --color-serika_dark-text: #d1d0c5;
+}
